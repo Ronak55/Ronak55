@@ -1,6 +1,6 @@
 - 👋 Hi, This is @Ronak55
-- 👀 I’m interested in Cybersecurity and in problem solving and puzzles
-- 🌱 I’m currently learning Data Structures and Algorithms and UX designing
+- 👀 I’m interested in Computer Networking and Cybersecurity 
+- 🌱 I’m currently getting my hands on Data Structures and Algorithms and on open source contributions
 
 
 <!---
