@@ -2,7 +2,7 @@
 
 👨🏻‍💻 Exploring new technologies and developing software solutions and quick hacks.  
 🎓 Studying Computer Science and computer programming.  
-🌱 Enthusiast in full-stack development.  
+🌱 Enthusiast in full-stack development, mobile app development
 😴 I believe a perfect nap can be the ultimate solution for any stress.
 
 ## 🛠 Tech Stack
