@@ -13,6 +13,8 @@
 - 💻 C++
 
 ### Frontend Development
+- 🌐 React Native
+- 🌐 Angular
 - 🌐 React
 - 🌐 HTML
 - 🌐 CSS
@@ -23,7 +25,7 @@
 - 🌐 Full-Stack
 
 ### Databases
-- 🛢 MySQL
+- 🛢 MS-SQL
 - 🛢 Firebase
 - 🛢 MongoDB
 
